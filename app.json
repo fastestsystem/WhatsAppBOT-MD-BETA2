@@ -1,8 +1,8 @@
 {
-  "name": "WhatsAppBot MD BETA II",
-    "description": "Fully Costamisable Bot by, Alien-Alfa.",
-    "repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2",
-    "website": "https://small-sharp-tool.com/",
+  "name": "Fastest-System.com Bot",
+    "description": "Fully Costamisable Bot by, Team Fastest Systemn.",
+    "repository": "https://github.com/fastestsystem/WhatsAppBOT-MD-BETA2/",
+    "website": "https://fastest-system.com/",
     "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
     "keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ","BETA 2"],
     "success_url": "under maintenance",
@@ -10,12 +10,12 @@
   "OWNER": {
     "description": "Pleas enter Number Of the Owner.",
     "required": false,
-    "value": "0,447405935255"
+    "value": "0,923091388832"
   }, 
   "SUDO": {
     "description": "Add superuser to this bot",
     "required": false,
-    "value": "0,447405935255"
+    "value": "0,923091388832"
   }, 
  
    "SERVER": {
@@ -33,7 +33,7 @@
   "STICKER_PACK": {
     "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
     "required": false,
-    "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+    "value": "ＡＬＩＥＮ"
   }, 
   "PREMIUM": {
     "description": "Premium user number",
